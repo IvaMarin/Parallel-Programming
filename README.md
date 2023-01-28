@@ -1,2 +1,5 @@
-# Parallel-Programming
-Parallel Programming courses exercises (Moscow Aviation Institute 7th-8th semesters)
+# Программирование Графических Процессоров и Параллельная Обработка Данных
+
+| Студент | *Мариничев И. А.* |
+|------|------|
+| Группа  | *М8О-408Б-19* |
